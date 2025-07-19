@@ -1,39 +1,29 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer utilities {
-  .animate-spin-slow {
-    animation: spin 8s linear infinite;
-  }
-  
-  .animate-float {
-    animation: float 6s ease-in-out infinite;
-  }
-  
-  .animate-float-delayed {
-    animation: float 6s ease-in-out infinite;
-    animation-delay: 2s;
-  }
-  
-  .animation-delay-2000 {
-    animation-delay: 2s;
-  }
-  
-  .animation-delay-3000 {
-    animation-delay: 3s;
-  }
-  
-  .animation-delay-4000 {
-    animation-delay: 4s;
-  }
+/* ===== DIM THEME ===== */
+:root {
+    --dim-bg: #1a1a2e;
+    --dim-card: #16213e;
+    --dim-accent: #0f3460;
+    --dim-text: #e6e6e6;
 }
 
-@keyframes float {
-  0%, 100% {
-    transform: translateY(0px);
-  }
-  50% {
-    transform: translateY(-20px);
-  }
+body.dim-theme {
+    background: var(--dim-bg);
+    color: var(--dim-text);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* Team Section Cards */
+.team-card {
+    background: var(--dim-card);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+}
+
+.team-card:hover {
+    transform: translateY(-5px);
 }
