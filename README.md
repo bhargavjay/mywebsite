@@ -29,6 +29,7 @@ This website serves as the company's digital presence and provides information a
 * Next.js
 * React
 * TypeScript
+* Vite
 * Tailwind CSS
 * Framer Motion
 * Vercel
