@@ -26,7 +26,6 @@ This website serves as the company's digital presence and provides information a
 
 ## 🧠 Technology Stack
 
-* Next.js
 * React
 * TypeScript
 * Vite
