@@ -25,7 +25,7 @@ This website serves as the company's digital presence and provides information a
 * SEO-optimised architecture
 * Mobile-friendly experience
 
-## Technology Stack
+## 🧠 Technology Stack
 
 - React
 - TypeScript
@@ -35,7 +35,7 @@ This website serves as the company's digital presence and provides information a
 - Vercel
 
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 About.tsx
