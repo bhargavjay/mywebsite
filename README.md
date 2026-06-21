@@ -24,23 +24,36 @@ This website serves as the company's digital presence and provides information a
 * SEO-optimised architecture
 * Mobile-friendly experience
 
-## 🧠 Technology Stack
+## Technology Stack
 
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* Framer Motion
-* Vercel
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Vercel
 
 ## 📁 Project Structure
 
+## Project Structure
+
 ```text
-src/
-public/
-components/
-app/
-styles/
+About.tsx
+App.tsx
+Contact.tsx
+Footer.tsx
+Header.tsx
+Hero.tsx
+Services.tsx
+Products.tsx
+Team.tsx
+PrivacyPolicy.tsx
+TermsOfService.tsx
+main.tsx
+index.css
+index.html
+vite.config.ts
+package.json
 README.md
 ```
 
