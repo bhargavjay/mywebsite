@@ -63,10 +63,8 @@ The website is deployed using Vercel and configured with a custom domain.
 
 ## 👨‍💻 Developed By
 
-BHARGAV
-
-Founder & CEO
-
+**BHARGAV**  
+Founder & CEO  
 MB InfoTech Solutions
 
 ## 📧 Contact
