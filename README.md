@@ -1,1 +1,61 @@
-# mywebsite
+# MB InfoTech Solutions Website
+
+Official website for MB InfoTech Solutions, showcasing software development, AI solutions, cloud platforms, and IT consulting services.
+
+## 🌐 Live Website
+
+https://www.mbinfotechsolutions.com
+
+## 📌 Overview
+
+MB InfoTech Solutions is a technology company focused on delivering innovative software solutions, artificial intelligence services, cloud technologies, and digital transformation support for startups, SMEs, and enterprises.
+
+This website serves as the company's digital presence and provides information about services, solutions, projects, and contact channels.
+
+## 🚀 Features
+
+* Modern responsive design
+* Service showcase pages
+* AI Solutions section
+* Software Development services
+* Cloud Platforms services
+* IT Consulting services
+* Contact and lead generation forms
+* SEO-optimised architecture
+* Mobile-friendly experience
+
+## 🧠 Technology Stack
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Vercel
+
+## 📁 Project Structure
+
+```text
+src/
+public/
+components/
+app/
+styles/
+README.md
+```
+
+## 🚀 Deployment
+
+The website is deployed using Vercel and configured with a custom domain.
+
+## 👨‍💻 Developed By
+
+BHARGAV
+
+Founder & CEO
+
+MB InfoTech Solutions
+
+## 📧 Contact
+
+https://www.mbinfotechsolutions.com/contact
