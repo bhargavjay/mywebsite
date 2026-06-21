@@ -33,7 +33,6 @@ This website serves as the company's digital presence and provides information a
 - Framer Motion
 - Vercel
 
-## 📁 Project Structure
 
 ## Project Structure
 
